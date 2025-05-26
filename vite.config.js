@@ -13,8 +13,8 @@ export default defineConfig({
         background: "#FFFCF8",
         white: "#FBFBFB",
       },
-
     },
   },
   plugins: [react(), tailwindcss()],
+  base: "/my-portfolio/",
 });
