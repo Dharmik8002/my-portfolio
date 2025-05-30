@@ -14,7 +14,7 @@ const Home = () => {
           <div className=" order-2 lg:order-1 text-center lg:text-left mt-16 lg:mt-0">
             <h3 className="text-[18px] lg:text-2xl font-medium text-black">
               {" "}
-              👋 Hii, I'm Dharmik Modi
+              👋 Hii, I'm Dharmik Modi 828002
             </h3>
             <h1 className="w-full lg:w-[480px] text-2xl lg:text-5xl font-bold leading-[42px] lg:leading-[60px] mt-3 bg-[linear-gradient(to_right,_#B100FF,_#7F6FEA)] bg-clip-text text-transparent">
               Building Scalable & User Centric Web Apps
